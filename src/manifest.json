@@ -13,6 +13,6 @@
     "default_icon": "asset/icon/16-disabled.png",
     "default_title": "No SAML response"
   },
-  "permissions": ["http://*/*", "https://*/*", "webRequest"],
+  "permissions": ["http://*/*", "https://*/*", "webRequest", "downloads", "tabs"],
   "version": "1.0.2"
 }
